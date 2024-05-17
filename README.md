@@ -1,2 +1,10 @@
-# GEORIGIN
-Da Febbraio 2024 ho inaugurato il mio progetto personale open-source (Georigin) dedicato allo sviluppo di strumenti GIS.
+# GEORIGIN 🖤
+Da Febbraio 2024 ho inaugurato il mio progetto personale open-source (Georigin) dedicato allo sviluppo di strumenti GIS (Geographic Information System). Questo sito web ha vari obiettivi:
+
+1. Fornire accesso rapido alle risorse GIS ufficiali esistenti, per appassionati del settore IT, GIS e analisti del territorio;
+2. Fornire mini-strumenti GIS scritty in Python, che mostrano come automatizzare complessi compiti di routine (mappatura digitale del territorio, analisi della distribuzione delle infrastrutture, calcoli geomatici, analisi di dati satellitari). Anche se non si dispone di un geodrone per la raccolta dati, Internet mette a disposizione risorse estremamente utili per lavorare con i dati geospaziali, come OpenStreetMap, Google Earth ENGINE, o i Geoportali regionali/nazionali italiani. Nei miei progetti ho incluso un'installer/uninstaller avanzato (scritto in Powershell) che scarica, installa e configura automaticamente PostgreSQL con l'estensione PostGIS;
+3. Sezione dedicata alla Cybersecurity (sia offensiva che difensiva): nell'area del sito destinata a questo scopo, viene posta attenzione su software chiamato Geoserver. Le regole per proteggerlo, valgono generalmente per proteggere qualsiasi server dagli attacchi informatici più diffusi come DDoS, SSH bruteforce, fino ad attacchi più severi come SQL Injection o XSS (Cross Site Scripting). Comunque, quest'area si focalizza specialmente su di esso, ponendo attenzione ai suoi singoli endpoint.
+
+Altri punti:
+Aggiuntivamente, Georigin si preoccupa di fornire rettificazioni legali sul Copyright (il sito non sta hostando direttamente, e non possiede i contenuti dei Geoportali italiani regionali) - Nel momento in cui si clicca su un REDIRECT, si viene infatti reindirizzati ai siti ufficiali dei Geoportali. Georigin non sta ricaricando i dati pubblicati dai geoportali italiani;
+Sponsorizzazione di strumenti educativi utili per Microsoft Windows, un OS molto sottovalutato ma con grande potenziale, se personalizzato correttamente.
